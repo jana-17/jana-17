@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm JANARTHANAN</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
+![coding-gif-10](https://user-images.githubusercontent.com/85696743/196145378-2081558c-2101-4596-bfb8-013c5fe0ff6b.gif)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jana-17&label=Profile%20views&color=0e75b6&style=flat" alt="jana-17" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jana-17" alt="jana-17" /></a> </p>
